@@ -1,0 +1,22 @@
+import java.util.ArrayList;
+
+public class ShipTest {
+	public static void main(String[] args) {
+		
+		Yacht obj1 = new Yacht("Seagull", "1999", "Mexico");
+		CruiseShip obj2 = new CruiseShip("Titanic", "1990", 100000);
+		CargoShip obj3 = new CargoShip("Bengal", 20000, "Chittagong", "Dhaka");
+		
+		
+		ArrayList<Object> myarray = new ArrayList<Object> ();
+		
+		myarray.add(obj1);
+		myarray.add(obj2);
+		myarray.add(obj3);
+		
+		for (int i=0 ; i < myarray.size() ; i++){
+	            System.out.println((myarray.get(i)).describeShip());
+	        }
+   
+	}
+}

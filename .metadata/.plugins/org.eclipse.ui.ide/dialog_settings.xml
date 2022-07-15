@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW7\HW7_Problem1"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW7_Problem2\src"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW7\HW7_Problem2\src"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-2\Lecture-2"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Project_Test"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\PROJECT1\Project_Test"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW7\HW7_CS2365"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Test"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW7_Problem2"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW7"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-14\Lecture-14"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-13\Lecture-13"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-12\Lecture-12"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW6\Problem2"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\PROJECT1\CS2365_PROJECT1"/>
+			<item value="C:\Users\hp\source\ParserProgram"/>
+			<item value="C:\Users\hp\source\parser"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-11\Lecture-11"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-10\Lecture-10"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\HW6"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-9\Lecture-9"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-8\Lecture-8"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-7\Lecture-7"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-6\Lecture-6"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-5\Lecture-5"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\Lecture-3\Lecture-3"/>
+			<item value="D:\OneDrive - Texas Tech University\TTU\SPRING 2022\CS-2365 - OOP\PROJECT1\sample"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="91"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="642"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

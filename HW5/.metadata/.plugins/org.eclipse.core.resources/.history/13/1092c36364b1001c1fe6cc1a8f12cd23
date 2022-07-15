@@ -1,0 +1,24 @@
+
+public class ShipTest {
+	public static void main(String[] args) {
+		
+		Yacht obj1 = new Yacht("Seagull", "1999", "Mexico");
+		CruiseShip obj2 = new CruiseShip("Titanic", "1990", 100000);
+		CargoShip obj3 = new CargoShip("Bengal", 20000, "Chittagong", "Dhaka");
+		
+		
+		description[] array = new description[10];
+		
+		array[0] = obj1;
+		array[1] = obj2;
+		array[2] = obj3;
+		
+		
+		
+
+        for (description element: array) {
+        	element.describeShip();
+        }
+		
+	}
+}
